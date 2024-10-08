@@ -1,9 +1,1 @@
 /* core style */
-caption {font-family: Arial; font-size: x-large; font-weight: bolder}
-table {border: 4px solid black; border-collapse: collapse; font-family: sans-serif}
-td {border:2px solid black; width:125px; height: 65px; text-align: center; font-size: 10px; background-color: rgb(50, 174, 196);}
-.materia {font-size: larger;font-weight: bold}
-.orario {vertical-align: 50px; border-top: 2px solid black;}
-.orariol {vertical-align: 20px; border-top: 2px solid black;}
-th.ora {text-align: end; font-size: small; width: 7%;}
-th {min-width: 10px}
