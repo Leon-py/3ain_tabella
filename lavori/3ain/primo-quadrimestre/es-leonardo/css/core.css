@@ -1,0 +1,11 @@
+/* core style */
+body {margin: 5%; font-size: larger; font-family: 'Times New Roman', Times, serif;}
+.pic {margin-left: 5%;}
+table.biografia {border: 1px solid black; max-width: 500px; width: 100%;}
+th {text-align: center; border: 1px solid black;}
+th.libro {width: 60%;}
+td {border: 1px solid black;}
+li {margin-top: 5px;}
+table.manoscritti {border: 1px solid black; max-width: 700px; width: 100%;}
+th.ndisegni {width: 10%;}
+.scritti {max-width: 200px; width: 90%;}
